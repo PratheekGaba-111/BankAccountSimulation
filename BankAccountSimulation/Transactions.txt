@@ -1,0 +1,1 @@
+user_id = 101, type = Deposit, amount = 49999, date = 2025-07-01 19:44:37

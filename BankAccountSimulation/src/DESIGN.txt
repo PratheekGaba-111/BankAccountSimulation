@@ -1,0 +1,16 @@
+okay so to begin with bank account simulation
+
+1. bank-account object is created
+2. A transaction is performed on it
+3. Transaction history has to be maintained using transaction file
+4.  Lets create a users.txt to save user data
+5. Also user,balance must be stored in another text file
+6. the transaction records are maintained in a special file in time order , so when an account number is called the account number, time, deposit/withdrawl, amount is displayed..
+
+
+
+So the classes will be
+1. User
+2. Transaction (deposit or withdrawl)
+
+ file writing...
