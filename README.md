@@ -76,7 +76,7 @@ Transactions.txt         → Logs of all transactions
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name Here]  
+Made with ❤️ by [Pratheek Gaba]  
 > Feel free to use, modify, or extend this project for learning purposes.
 
 ---
